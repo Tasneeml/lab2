@@ -1,0 +1,82 @@
+  
+header {
+  background-color: rgb(82, 34, 12);
+  font-size: 200%;
+  color:rgb(201, 85, 18);
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  padding-top: 100px;
+  padding-right: 30px;
+  padding-bottom: 70px;
+  padding-left: 80px;
+  font-style: italic;
+  font-weight: bold;
+  border: 11px solid rgb(75, 50, 26);
+font-family: Brush Script MT, Brush Script Std, cursive;
+text-align: center;}
+
+body {
+    background-image: url("https://backgrounddownload.com/wp-content/uploads/2018/09/light-orange-background-hd-6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: auto;
+    color: rgb(49, 23, 13);
+    font-family: Brush Script MT, Brush Script Std, cursive;
+     text-align: center;
+     font-size: x-large;
+     font-weight: bolder;
+ }
+
+     #photo-template{
+        cursor: pointer;
+     }
+     
+select {
+    background-color: rgb(146, 44, 18);
+    color: rgb(207, 122, 11);
+    top: 12px;
+    right: 10px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+     text-align: center;
+     font-size: x-large;
+     font-weight: bolder;
+    border: 6px solid transparent;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+     section{
+         padding: 60px;
+         
+     } */
+     /* body {
+        margin: auto;
+        padding: 111px;
+        background-image: url('https://gallery.yopriceville.com/var/resizes/Backgrounds/Glittering_Purple_Background.jpg?m=1495184389');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        font-family: 'Playfair Display', serif;
+        font-family: 'Anton', sans-serif;
+        font-family: 'Sunshiney', cursive;
+         text-align: center;
+         font-size: x-large;
+         font-weight: bolder;
+     } */
+     footer {
+        margin: auto;
+        text-align: center;
+        font-family: Brush Script MT, Brush Script Std, cursive;
+        font-weight: bolder;
+    font-size: large;
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 70px;
+    padding-left: 80px;
+     } 
+     main{
+         overflow: hidden;
+     }
